@@ -1,8 +1,3 @@
--- Made by Error_IDK
--- Version: 3.2
- 
--- Instances:
- 
 local ScreenGui = Instance.new("ScreenGui")
 local Aimbot = Instance.new("Frame")
 local Title = Instance.new("TextLabel")
